@@ -1,0 +1,10 @@
+{
+	"typography": {
+		"font-family": "Noto Serif"
+	},
+	"colors": {
+		"text": "#000000",
+		"primary": "#FFFFFF",
+		"secondary": "#FF1654"
+	}
+}
