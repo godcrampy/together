@@ -8,10 +8,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'together.',
-      theme: ThemeData(
-        primarySwatch: Colors.pink,
-        fontFamily: "Noto"
-      ),
+      theme: ThemeData(primarySwatch: Colors.pink, fontFamily: "Noto"),
       routes: {'/': (BuildContext context) => HomePage()},
     );
   }

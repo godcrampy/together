@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "69313545235",
+    "firebase_url": "https://godcrampy-together.firebaseio.com",
+    "project_id": "godcrampy-together",
+    "storage_bucket": "godcrampy-together.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69313545235:android:b2ac86be6162f224",
+        "android_client_info": {
+          "package_name": "com.godcrampy.together"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69313545235-9hcddjnu4stkuodmbps51nbep31lb8gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY7a4b1w2NrQWAvZlVj4fFrWl8jrDBY3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69313545235-9hcddjnu4stkuodmbps51nbep31lb8gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
