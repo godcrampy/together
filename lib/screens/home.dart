@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
         backgroundColor: Colors.white,
         title: Text(
           'together.',
-          style: TextStyle(color: Colors.black, fontSize: 22), 
+          style: TextStyle(color: Colors.black, fontSize: 22),
         ),
       ),
     );
