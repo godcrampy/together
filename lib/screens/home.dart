@@ -6,7 +6,10 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.white,
-        title: Text('together.', style: TextStyle(color: Colors.black),),
+        title: Text(
+          'together.',
+          style: TextStyle(color: Colors.black, fontSize:22),
+        ),
       ),
     );
   }

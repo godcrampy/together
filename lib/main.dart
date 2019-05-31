@@ -10,6 +10,7 @@ class MyApp extends StatelessWidget {
       title: 'together.',
       theme: ThemeData(
         primarySwatch: Colors.pink,
+        fontFamily: "Noto"
       ),
       routes: {'/': (BuildContext context) => HomePage()},
     );
